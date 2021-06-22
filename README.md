@@ -1,2 +1,0 @@
-# statik2
-depss
